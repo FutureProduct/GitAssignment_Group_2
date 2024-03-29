@@ -18,4 +18,9 @@ public class GitAssignment_group2 {
         // TODO code application logic here
     }
     
+    // This is a simple function to print SIMON RICHARD
+    public void Simon() {
+        System.out.println("Simon Richard / jsimonrichard");
+    }
+    
 }
