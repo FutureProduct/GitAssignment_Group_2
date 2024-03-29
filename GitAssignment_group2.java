@@ -18,4 +18,9 @@ public class GitAssignment_group2 {
         // TODO code application logic here
     }
     
+    public void Micah()
+    {
+        System.out.println("Micah Bosko");
+    }
+    
 }
