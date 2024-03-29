@@ -17,5 +17,10 @@ public class GitAssignment_group2 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
+
+    // This is a simple function to print AIDAN HAHN
+    public void Aidan() {
+        System.out.println("Aidan Hahn / Roarkel");
+    }
     
 }
