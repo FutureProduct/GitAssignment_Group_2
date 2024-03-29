@@ -1,0 +1,26 @@
+Work in the same groups as the project.
+
+Create a GitHub repo for the group.
+Make the repo public or add all members of the group and my account (rfiske6) to the repo.
+
+Each student should add a file with their name in the file name and some text in the file.
+
+Add a file to the repo called group.java, this file should contain one method for each group member that returns their name (each member should write the method that returns their name).
+
+Add a method called getGroupMembers that returns the names of all group members, each member should add their own names to the method.
+
+Add three more methods:
+int divide(int num1, int num2) calculates integer division num1/num2, should throw an Arithmetic exception if num2 is 0, or the result of num1/num2 is not a whole number.
+int multiply(int num1, num2) calculates num1*num2
+int power(int num1, num2); calculates num1 to the power of num2
+
+You may not use the multiply or divide operators, or methods that calculate the results for you (use loops to do the calculation)
+
+
+
+Add unit tests to verify all methods work correctly
+
+Add a jenkins file to the project to allow the use of jenkins for the project.  You do not need to turn in any documentation showing jenkins working, but I do suggest verifying that it works before turning the assignment in.
+
+What to turn in:
+The git url for the repo and all member user names (along with your real name so I know which account belongs to which student)
