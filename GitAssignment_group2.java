@@ -25,7 +25,7 @@ public class GitAssignment_group2 {
     
     public void Micah()
     {
-        System.out.println("Micah Bosko");
+        System.out.println("Micah Bosko / FutureProduct");
     }
     
     // This is a simple function to print SIMON RICHARD
