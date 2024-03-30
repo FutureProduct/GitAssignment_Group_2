@@ -36,7 +36,7 @@ public class GitAssignment_group2 {
     public String[] getGroupMembers() {
     	return new String[] {
     			"Simon Richard",
-                "Micah Bosko",
+                "Micah Bosko", "Paul Siders"
     	};
     }
     
