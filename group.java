@@ -32,6 +32,10 @@ public class GitAssignment_group2 {
     public void Simon() {
         System.out.println("Simon Richard / jsimonrichard");
     }
+
+    public void Nithish() {	
+    	System.out.println("Nithish / sickn");
+    }
     
     public String[] getGroupMembers() {
     	return new String[] {
