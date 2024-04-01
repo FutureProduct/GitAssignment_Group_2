@@ -42,7 +42,7 @@ public class GitAssignment_group2 {
     }
 
     public void David(){
-	System.out.println("David Gramo / dgramo");    
+	System.out.println("David Gramo / dgramo03");    
     }
     
     public String[] getGroupMembers() {
