@@ -38,8 +38,12 @@ public class GitAssignment_group2 {
     }
 
     public void Ruslan() {	
-		System.out.println("Ruslan Averin / ErnakSalmander");
-	}
+	System.out.println("Ruslan Averin / ErnakSalmander");
+    }
+
+    public void David(){
+	System.out.println("David Gramo / dgramo");    
+    }
     
     public String[] getGroupMembers() {
     	return new String[] {
@@ -47,6 +51,7 @@ public class GitAssignment_group2 {
                 "Micah Bosko", 
                 "Paul Siders",
                 "Ruslan Averin",
+		"David Gramo",
     	};
     }
     
