@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -45,6 +46,10 @@ public class GitAssignment_group2 {
 	System.out.println("David Gramo / dgramo03");    
     }
     
+    public void Paul(){
+	System.out.println("Paul Siders / LethalForceMan");    
+    }
+    
     public String[] getGroupMembers() {
     	return new String[] {
     			"Simon Richard",
@@ -52,18 +57,21 @@ public class GitAssignment_group2 {
                 "Paul Siders",
                 "Ruslan Averin",
 		"David Gramo",
+                "Nithish"
     	};
     }
     
     public int divide(int num1, int num2) {
     	if(num2 == 0) {
-    		throw ArithmeticException("div by zero");
+            //throw ArithmeticException("div by zero");
+            return -1;
     	}
     	
     	int quotient = 0;
-    	while(num1 > num2) {
-    		num1 -= num2;
-    		quotient++;
+    	while(num1 >= num2) 
+        {
+            num1 -= num2;
+            quotient++;
     	}
     	
     	return quotient;
@@ -83,6 +91,5 @@ public class GitAssignment_group2 {
     		p = multiply(p, num1);
     	}
     	return p;
-    }
-    
+    }  
 }
