@@ -15,5 +15,5 @@ A virtual library with a dystopian twist
 - Library Social Credit Score [DYSTOPIAN TWIST]
   - The purpose of this is to introduce a limit to what kind of books someone can borrow
     - Someone with a low credit score can't check out any book they want
-  - Maybe is score is low, there could be punishment
+  - Maybe if score is low, there could be punishment
 - Simple recomendation algortihm
